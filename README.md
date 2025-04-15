@@ -3,9 +3,9 @@ I am Catloaves, a human being living on Earth.
 
 # Software I want to develop
 
-- Mereillouse (You can also call it MRSLE for short) - an operating system fully in public domain.
+- Mereillouse (You can also call it MRLSE for short) - an operating system fully in public domain.
 - AetherCC - compiler.
-- Skimi - a LAN chatting application. Online functionality is also planned to be added in sometime future.
+- Skimi (skimicall, skimichat, skimimail)  - a LAN chatting application. Online, calling and email functionality is also planned to be added in sometime future.
 
 and currently, that's it for now.
 
